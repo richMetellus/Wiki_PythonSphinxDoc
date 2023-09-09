@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sphinx = ">=4.0,<6,!=5.0.0"
+myst-parser = "*"
+rst2pdf = "*"
+"sphinxcontrib.drawio" = "*"
+sphinx-tabs = "*"
+sphinx-toolbox = "*"
+sphinx-autobuild = "*"
+sphinx-substitution-extensions = "*"
+"sphinxcontrib.plantuml" = "*"
+cloud-sptheme = "*"
+sphinx-last-updated-by-git = "*"
+sphinxcontrib-plantuml = "*"
+sphinx-design = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

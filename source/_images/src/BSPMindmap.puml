@@ -1,0 +1,20 @@
+@startmindmap
+<style>
+mindmapDiagram {
+  node {
+    BackgroundColor lightGreen
+  }
+  boxless {
+    FontColor darkgreen
+  }
+}
+
+arrow {
+    LineColor green
+}
+
+</style>
+* BSP
+** WriteToFlash(Quad or OctoSPI)
+** RTD
+@endmindmap
